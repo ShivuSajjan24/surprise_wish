@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "buildCommand": "echo 'Already built'",
+  "outputDirectory": "out",
+  "public": true
+}
